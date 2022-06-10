@@ -1,0 +1,6 @@
+E:\当前研究工作\IriTrack\ImageProcess\PointAngleCS\bin\Release\PointAngleCS.exe.config
+E:\当前研究工作\IriTrack\ImageProcess\PointAngleCS\bin\Release\PointAngleCS.exe
+E:\当前研究工作\IriTrack\ImageProcess\PointAngleCS\bin\Release\PointAngleCS.pdb
+E:\当前研究工作\IriTrack\ImageProcess\PointAngleCS\obj\Release\PointAngleCS.csproj.CoreCompileInputs.cache
+E:\当前研究工作\IriTrack\ImageProcess\PointAngleCS\obj\Release\PointAngleCS.exe
+E:\当前研究工作\IriTrack\ImageProcess\PointAngleCS\obj\Release\PointAngleCS.pdb

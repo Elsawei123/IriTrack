@@ -1,0 +1,14 @@
+E:\当前研究工作\IriTrack\ImageProcess\PointAngleCS\bin\x64\Debug\PointAngleCS.exe.config
+E:\当前研究工作\IriTrack\ImageProcess\PointAngleCS\bin\x64\Debug\PointAngleCS.exe
+E:\当前研究工作\IriTrack\ImageProcess\PointAngleCS\bin\x64\Debug\PointAngleCS.pdb
+E:\当前研究工作\IriTrack\ImageProcess\PointAngleCS\obj\x64\Debug\PointAngleCS.csprojAssemblyReference.cache
+E:\当前研究工作\IriTrack\ImageProcess\PointAngleCS\obj\x64\Debug\PointAngleCS.csproj.CoreCompileInputs.cache
+E:\当前研究工作\IriTrack\ImageProcess\PointAngleCS\obj\x64\Debug\PointAngleCS.exe
+E:\当前研究工作\IriTrack\ImageProcess\PointAngleCS\obj\x64\Debug\PointAngleCS.pdb
+E:\CurrentResearch\IriTrack\ImageProcess\PointAngleCS\bin\x64\Debug\PointAngleCS.exe.config
+E:\CurrentResearch\IriTrack\ImageProcess\PointAngleCS\bin\x64\Debug\PointAngleCS.exe
+E:\CurrentResearch\IriTrack\ImageProcess\PointAngleCS\bin\x64\Debug\PointAngleCS.pdb
+E:\CurrentResearch\IriTrack\ImageProcess\PointAngleCS\obj\x64\Debug\PointAngleCS.csprojAssemblyReference.cache
+E:\CurrentResearch\IriTrack\ImageProcess\PointAngleCS\obj\x64\Debug\PointAngleCS.csproj.CoreCompileInputs.cache
+E:\CurrentResearch\IriTrack\ImageProcess\PointAngleCS\obj\x64\Debug\PointAngleCS.exe
+E:\CurrentResearch\IriTrack\ImageProcess\PointAngleCS\obj\x64\Debug\PointAngleCS.pdb
