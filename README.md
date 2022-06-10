@@ -1,5 +1,5 @@
 # IriTrack
-This is the code for the paper IriTrack: Face Presentation Attack Detection using Iris Tracking. The paper link is [here](https://dl.acm.org/doi/abs/10.1145/3463515).
+This is the code for the paper IriTrack: Face Presentation Attack Detection Using Iris Tracking. The paper link is [here](https://dl.acm.org/doi/abs/10.1145/3463515).
 
 To run the program, you should run the scripts/work.ps1 in the PowerShell. Specifically, the command "scripts/work.ps1" represents that the system will show the randomly generated patterns to the users and detect face presentation attacks. The command "scripts/work.ps1 true" represents that the system will show the customized patterns to the users and detect face presentation attacks. 
 
